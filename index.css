@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  background-color: black;
+  font-family: sans-serif;
+  font-family: monospace;
+  font-size: 20px;
+}
+.header {
+  margin: 100px;
+  margin-top: 50px;
+  color: white;
+}
+
+.Dog-Picker {
+  font-size: 20px;
+  background-color: black;
+  color: gold;
+  box-shadow: 2px 5px gold;
+  font-family: fantasy;
+  border: 2px solid gold;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-radius: 5px;
+  margin: 30px;
+  size: 150%;
+}
+
+.picked {
+  color: white;
+  font-size: 25px;
+  margin-top: 15px;
+}
+
+img {
+  margin-top: 25px;
+}
+
+/* img {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+} */
